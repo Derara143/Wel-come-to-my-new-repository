@@ -8,7 +8,7 @@ My first repository
    <ul>
     <li>My name: Derara Beyena.</li>
     <li>where I live: Cincinnati, OH, USA.</li>
-    </li>I was born in Ethiopia.</li>
+    <li>I was born in Ethiopia.</li>
   <li>My favority Subject:Maths</li>
   <li>My favority food:Injera(Ethipian flat bread).</Li>
  <li>My favorite sport team: Barcelona.</li>
